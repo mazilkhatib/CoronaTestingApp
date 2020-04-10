@@ -8,4 +8,5 @@ Any android/ios device with telegram app installed.
 cloud hosting: heroku to host the backend of the application
 
 Process Flow Diagram:
+
 ![Image description](process.jpg)
